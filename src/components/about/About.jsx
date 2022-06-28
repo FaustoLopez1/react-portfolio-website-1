@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/profile-default.png'
+import ME from '../../assets/profile-default.jpg'
 import {FaAward} from 'react-icons/fa'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
@@ -37,8 +37,6 @@ const About = () => {
             </p>
 
             <a href='#contact' className='btn btn-primary'>Let's Talk</a>
-
-
         </div>
         </div>
     </section>
