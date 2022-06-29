@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-website-1/static/css/main.fd9b7044.css",
+    "main.js": "/react-portfolio-website-1/static/js/main.33a0c00b.js",
+    "static/media/project-im5.gif": "/react-portfolio-website-1/static/media/project-im5.aa6cb9a52a5bdcd4a39c.gif",
+    "static/media/project-im6.gif": "/react-portfolio-website-1/static/media/project-im6.b0390213cfcaf7a30627.gif",
+    "static/media/project-im2.gif": "/react-portfolio-website-1/static/media/project-im2.5b3f62cdcc4cafa34102.gif",
+    "static/media/project-im1.gif": "/react-portfolio-website-1/static/media/project-im1.437ce5630d2ff14a82f1.gif",
+    "static/media/project-im4.gif": "/react-portfolio-website-1/static/media/project-im4.2311cdf1dd7253d74b63.gif",
+    "static/media/project-im3.gif": "/react-portfolio-website-1/static/media/project-im3.7413662858a43e2b6735.gif",
+    "static/media/profile-default.jpg": "/react-portfolio-website-1/static/media/profile-default.66043befa3784b982655.jpg",
+    "static/media/profile-zero.png": "/react-portfolio-website-1/static/media/profile-zero.ca9e1a1d02aaeb3b9225.png",
+    "static/media/CodeResume.pdf": "/react-portfolio-website-1/static/media/CodeResume.98394d4cd2cdf0560cb6.pdf",
+    "index.html": "/react-portfolio-website-1/index.html",
+    "main.fd9b7044.css.map": "/react-portfolio-website-1/static/css/main.fd9b7044.css.map",
+    "main.33a0c00b.js.map": "/react-portfolio-website-1/static/js/main.33a0c00b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd9b7044.css",
+    "static/js/main.33a0c00b.js"
+  ]
+}
